@@ -1,0 +1,95 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "preetis-MacBook-Pro.local",
+    "children" : [ {
+      "name" : "67062@preetis-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "login",
+        "uid" : "6270d41087624d3c",
+        "parentUid" : "f83ccb7089dda71d29ad82fd405ecef7",
+        "status" : "failed",
+        "time" : {
+          "start" : 1621126262988,
+          "stop" : 1621126269873,
+          "duration" : 6885
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "EmailError",
+        "uid" : "571e710f4c9f7ea5",
+        "parentUid" : "f83ccb7089dda71d29ad82fd405ecef7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621126248091,
+          "stop" : 1621126252158,
+          "duration" : 4067
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "PasswordError",
+        "uid" : "2066b22ea29e5bfa",
+        "parentUid" : "f83ccb7089dda71d29ad82fd405ecef7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621126258256,
+          "stop" : 1621126261925,
+          "duration" : 3669
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f83ccb7089dda71d29ad82fd405ecef7"
+    }, {
+      "name" : "67249@preetis-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "login",
+        "uid" : "c4d2e5a9f2f6333e",
+        "parentUid" : "0b89c1ac150182534b68f6232fae59ba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621126420584,
+          "stop" : 1621126428554,
+          "duration" : 7970
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "PasswordError",
+        "uid" : "7a4abd542300f576",
+        "parentUid" : "0b89c1ac150182534b68f6232fae59ba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621126410328,
+          "stop" : 1621126414404,
+          "duration" : 4076
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "EmailError",
+        "uid" : "cf0a9acdddccbddf",
+        "parentUid" : "0b89c1ac150182534b68f6232fae59ba",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621126400349,
+          "stop" : 1621126404261,
+          "duration" : 3912
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0b89c1ac150182534b68f6232fae59ba"
+    } ],
+    "uid" : "b0764d53c0eb051930e59c4617c0899e"
+  } ]
+}

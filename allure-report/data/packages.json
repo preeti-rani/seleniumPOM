@@ -1,0 +1,56 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "com.miro.tests",
+    "children" : [ {
+      "name" : "TestError",
+      "children" : [ {
+        "name" : "EmailError",
+        "uid" : "cf0a9acdddccbddf",
+        "parentUid" : "92df7116dc4fe96013df8ba8b784b3ea",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621126400349,
+          "stop" : 1621126404261,
+          "duration" : 3912
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "PasswordError",
+        "uid" : "7a4abd542300f576",
+        "parentUid" : "92df7116dc4fe96013df8ba8b784b3ea",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621126410328,
+          "stop" : 1621126414404,
+          "duration" : 4076
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "92df7116dc4fe96013df8ba8b784b3ea"
+    }, {
+      "name" : "TestLogin",
+      "children" : [ {
+        "name" : "login",
+        "uid" : "c4d2e5a9f2f6333e",
+        "parentUid" : "c9133c4d3ac0493e8740c17d8973a9f5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1621126420584,
+          "stop" : 1621126428554,
+          "duration" : 7970
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c9133c4d3ac0493e8740c17d8973a9f5"
+    } ],
+    "uid" : "com.miro.tests"
+  } ]
+}

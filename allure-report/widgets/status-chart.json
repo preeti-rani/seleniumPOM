@@ -1,0 +1,31 @@
+[ {
+  "uid" : "cf0a9acdddccbddf",
+  "name" : "EmailError",
+  "time" : {
+    "start" : 1621126400349,
+    "stop" : 1621126404261,
+    "duration" : 3912
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "7a4abd542300f576",
+  "name" : "PasswordError",
+  "time" : {
+    "start" : 1621126410328,
+    "stop" : 1621126414404,
+    "duration" : 4076
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c4d2e5a9f2f6333e",
+  "name" : "login",
+  "time" : {
+    "start" : 1621126420584,
+    "stop" : 1621126428554,
+    "duration" : 7970
+  },
+  "status" : "passed",
+  "severity" : "critical"
+} ]

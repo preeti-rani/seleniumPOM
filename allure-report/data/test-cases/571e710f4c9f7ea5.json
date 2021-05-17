@@ -1,0 +1,114 @@
+{
+  "uid" : "571e710f4c9f7ea5",
+  "name" : "EmailError",
+  "fullName" : "com.miro.tests.TestError.EmailError",
+  "historyId" : "6c0a5ad7b0a552de0570fcf1bc9c1967",
+  "time" : {
+    "start" : 1621126248091,
+    "stop" : 1621126252158,
+    "duration" : 4067
+  },
+  "description" : "Test: Verify Email error",
+  "descriptionHtml" : "<p>Test: Verify Email error</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1621126245975,
+      "stop" : 1621126247995,
+      "duration" : 2020
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "description" : "Test: Verify Email error",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "3a4d09ceeb2f1f49",
+      "name" : "Email error",
+      "source" : "3a4d09ceeb2f1f49.png",
+      "type" : "image/png",
+      "size" : 236475
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "teardown",
+    "time" : {
+      "start" : 1621126252163,
+      "stop" : 1621126252163,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.miro.tests.TestError"
+  }, {
+    "name" : "testClass",
+    "value" : "com.miro.tests.TestError"
+  }, {
+    "name" : "testMethod",
+    "value" : "EmailError"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "SeleniumTestPOM"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.miro.tests.TestError"
+  }, {
+    "name" : "host",
+    "value" : "preetis-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "67062@preetis-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "571e710f4c9f7ea5.json",
+  "parameterValues" : [ ]
+}

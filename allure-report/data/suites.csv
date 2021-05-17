@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun May 16 02:53:20 CEST 2021","Sun May 16 02:53:24 CEST 2021","3912","Default Suite","SeleniumTestPOM","com.miro.tests.TestError","com.miro.tests.TestError","EmailError","EmailError","Test: Verify Email error"
+"passed","Sun May 16 02:53:30 CEST 2021","Sun May 16 02:53:34 CEST 2021","4076","Default Suite","SeleniumTestPOM","com.miro.tests.TestError","com.miro.tests.TestError","PasswordError","PasswordError","Test: Verify Password error"
+"passed","Sun May 16 02:53:40 CEST 2021","Sun May 16 02:53:48 CEST 2021","7970","Default Suite","SeleniumTestPOM","com.miro.tests.TestLogin","com.miro.tests.TestLogin","login","login","Verify Successfull Registration"

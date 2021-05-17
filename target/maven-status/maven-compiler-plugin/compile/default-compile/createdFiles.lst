@@ -1,0 +1,6 @@
+com/miro/utils/Log.class
+com/miro/utils/PropertyReader.class
+com/miro/utils/DriverManager.class
+com/miro/utils/WaitForHelper.class
+com/miro/base/BasePage.class
+com/miro/pages/LoginPage.class
